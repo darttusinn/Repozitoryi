@@ -1,4 +1,4 @@
-a, b, c = 0, 0, 0
+a, b, c = map(int, iput().split())
 if a == 0 and b == 0 and c == 0:
 	print("besk resh")
 else:
