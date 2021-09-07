@@ -1,3 +1,1 @@
-# First-project
-#First-project
-# Repozitoryi
+It's my first project
